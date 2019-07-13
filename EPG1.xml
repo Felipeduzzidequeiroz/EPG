@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>Guia.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>365</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+<channel update="i" site="mi.tv" site_id="ar_82e4a1cf-335b-4e7b-9b87-073a16c40a96" xmltv_id="Fox(SD)">Fox(SD)</channel> 
+<channel update="i" site="mi.tv" site_id="br_4d470878-33bb-475e-a775-f2ce6e67c810" xmltv_id="SporTV">SporTV</channel>
+<channel update="i" site="mi.tv" site_id="co_7d2c86eb-e80e-4815-972c-9eaaa3f5e46c" xmltv_id="History">History</channel>
+<channel update="i" site="foxplaybrasil.com.br" site_id="fox-hd" xmltv_id="FoxHD">FoxHD</channel>
+<channel update="i" site="mi.tv" site_id="co_4f2e8560-cc11-426d-96dc-92397a4b3088" xmltv_id="Fox Life">Fox Life</channel>
+<channel update="i" site="netcombo.com.br" site_id="437" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="netcombo.com.br" site_id="439" xmltv_id="HBO Family">HBO Family</channel>
+<channel update="i" site="netcombo.com.br" site_id="446" xmltv_id="Max Prime HD">Max Prime HD</channel>
+<channel update="i" site="mi.tv" site_id="co_0f903a27-84ea-4117-a6aa-7777d7fd7b1d" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="netcombo.com.br" site_id="1008" xmltv_id="Sony HD">Sony HD</channel>
+<channel update="i" site="mi.tv" site_id="br_5e10ddf5-1c99-4cfa-bb22-df6fc937edcc" xmltv_id="teleCine Cult HD">teleCine Cult HD</channel>
+<channel update="i" site="mi.tv" site_id="br_30a245be-8b3f-4361-a8dc-99ad25fb446e" xmltv_id="TeleCine Action">TeleCine Action</channel>
+<channel update="i" site="mi.tv" site_id="br_381de6b4-8fe6-4ced-ac31-7e2310546df5" xmltv_id="Tele Cine Fun">Tele Cine Fun</channel>
+<channel update="i" site="mi.tv" site_id="br_b23497a8-62a5-4fc3-ae50-d1f6fd4bed1d" xmltv_id="Tele Cine Pipoca">Tele Cine Pipoca</channel>
+<channel update="i" site="mi.tv" site_id="br_76566215-1298-41fb-8750-7486090dda13" xmltv_id="Tele Cine Premium">Tele Cine Premium</channel>
+<channel update="i" site="mi.tv" site_id="br_f4836245-1fdf-4b3e-8459-90b0808dc856" xmltv_id="Tele Cine Touch">Tele Cine Touch</channel>
+<channel update="i" site="netcombo.com.br" site_id="1606" xmltv_id="WarnerTV HD">WarnerTV HD</channel>
+<channel update="i" site="mi.tv" site_id="co_ef2c5255-a3bb-46d8-b8fb-33b6e43a8f68" xmltv_id="Discovery HD">Discovery HD</channel>
+<channel update="i" site="mi.tv" site_id="co_8a59310b-f558-48e3-8dcf-d59afc9e5ac3" xmltv_id="ESPN 2">ESPN 2</channel>
+<channel update="i" site="netcombo.com.br" site_id="875" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="mi.tv" site_id="co_1ef9b8df-10e5-431b-ba92-a2ae8648b153" xmltv_id="Paramount Channel">Paramount Channel</channel>
+<channel update="i" site="netcombo.com.br" site_id="482" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="netcombo.com.br" site_id="1189" xmltv_id="H2 HD">H2 HD</channel>
+
+
+
+	
+
+
+
+
+</settings>
